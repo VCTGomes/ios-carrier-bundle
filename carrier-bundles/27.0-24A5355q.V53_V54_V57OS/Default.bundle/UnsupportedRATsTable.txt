@@ -1,0 +1,344 @@
+# 05-20-26 3.0
+# MCC;MNC;Disabled RAT1,Disabled RAT2;Carrier name
+202;01;3G-partial;COSMOTE
+202;05;3G-full;vf GR
+202;10;3G-partial;WIND
+204;04;3G-full;ChinaTelecom(Macau)
+204;08;3G-full;KPN-NL
+204;16;2G-full;Odido_NL
+204;69;3G-full;KPN NL
+206;01;3G-partial;Proximus
+206;10;3G-partial;Orange B
+216;01;3G-full;Yettel-HU
+216;30;3G-full;Telekom-HU
+216;70;3G-full;vodafone-HU
+219;01;3G-full;HT HR
+219;20;3G-full;HT HR
+220;05;3G-partial;A1 SRB
+222;01;3G-partial;TIM
+222;10;3G-partial;Vodafone IT
+226;05;3G-full;Digil-RO
+226;10;3G-partial;Orange Romania
+228;01;2G-full,3G-partial;Swisscom
+228;02;2G-full,3G-partial;Sunrise
+228;03;2G-full;Salt
+230;01;3G-full;T-Mobile-CZ
+230;02;3G-full;O2.CZ
+230;03;3G-partial;VF CZ
+231;01;3G-full;OrangeSlovensko
+231;02;3G-full;Telekom SK
+232;01;3G-full;A1
+232;02;3G-full;A1
+232;03;3G-full;Magenta-T
+232;07;3G-full;Magenta-T
+232;11;3G-full;A1
+232;12;3G-full;A1
+232;23;3G-full;Magenta-T
+234;15;3G-partial;vodafone UK
+234;20;2G-full,3G-full;Three
+234;30;2G-partial,3G-partial;EE
+234;33;2G-partial,3G-partial;EE
+234;38;2G-full,3G-full;Virgin-GB
+238;01;3G-full;TDC
+238;02;3G-full;Telenor DK
+238;06;2G-partial,3G-full;3 DK
+238;15;2G-full,3G-full;Net1-DK
+238;20;3G-full;TELIA
+238;30;3G-full;Telenor DK
+238;66;3G-full;Telenor DK
+238;77;3G-full;Telenor DK
+240;01;3G-partial;TELIA
+240;02;2G-full,3G-partial;3 SE
+240;03;2G-full,3G-full;Teracom-SE
+240;07;2G-full,3G-full;Tele2
+240;08;2G-full,3G-full;Telenor
+242;01;3G-full;Telenor
+242;02;2G-full,3G-full;Telia N
+242;14;2G-full,3G-full;Ice Norway
+244;03;3G-full;DNA
+244;05;3G-full;elisa
+244;12;3G-full;DNA
+244;14;2G-full;ALCOM
+244;91;3G-full;Telia FI
+246;01;3G-full;Telia-LT
+246;02;3G-partial;Bite
+246;03;3G-partial;Tele2 LT
+247;01;3G-full;LMT
+247;02;3G-full;Tele2
+247;10;3G-full;LMT
+248;01;3G-full;Telia
+248;02;3G-full;Elisa
+248;03;3G-partial;Tele2
+259;15;2G-full,3G-full;IDC-MD
+260;02;3G-partial;T-Mobile.pl
+260;03;3G-partial;Orange
+260;10;3G-partial;T-Mobile.pl
+262;01;3G-full;Telekom.de
+262;02;3G-full;Vodafone.de
+262;03;3G-partial;o2-de
+262;04;3G-full;Vodafone.de
+262;06;3G-full;Telekom.de
+262;07;3G-partial;o2-de
+262;09;3G-full;Vodafone.de
+262;78;3G-full;Telekom.de
+268;01;3G-partial;vodafone P
+268;03;3G-partial;NOS
+268;06;3G-partial;MEO
+270;01;3G-full;POST
+270;77;3G-partial;TANGO
+270;99;3G-partial;Orange Luxembourg
+272;01;3G-full;vodafone IE
+274;01;2G-partial;Siminn
+274;02;2G-partial;SYN
+274;11;2G-full;NOVA
+293;40;3G-partial;A1 SI
+293;41;3G-full;mobitel
+294;01;3G-full;Telekom.mk
+295;01;2G-full,3G-partial;Swisscom-LI
+295;05;3G-partial;FL1
+297;02;3G-full;telekom.me
+302;720;2G-partial;Rogers
+302;723;2G-full,3G-full;Rogers
+310;150;2G-full,3G-full;AT&T
+310;160;3G-full;T-Mobile
+310;170;2G-full,3G-full;AT&T
+310;200;3G-full;T-Mobile
+310;210;3G-full;T-Mobile
+310;220;3G-full;T-Mobile
+310;230;3G-full;T-Mobile
+310;250;3G-full;T-Mobile
+310;260;3G-full;T-Mobile
+310;270;3G-full;T-Mobile
+310;280;2G-full,3G-full;AT&T
+310;30;2G-full,3G-full;AT&T
+310;310;3G-full;T-Mobile
+310;380;2G-full,3G-full;AT&T
+310;410;2G-full,3G-full;AT&T
+310;490;3G-full;T-Mobile
+310;560;2G-full,3G-full;AT&T
+310;660;3G-full;T-Mobile
+310;70;2G-full,3G-full;x
+310;800;3G-full;T-Mobile
+310;90;2G-full,3G-full;AT&T
+310;950;2G-full,3G-full;AT&T
+311;180;2G-full,3G-full;AT&T
+311;480;2G-full,3G-full;Appalachian
+311;50;2G-full,3G-full;Thumb-US
+311;650;2G-full,3G-full;United
+311;660;3G-full;T-Mobile
+311;780;2G-full,3G-full;ASTCA
+311;830;2G-full,3G-full;Thumb-US
+311;882;3G-full;T-Mobile
+312;290;2G-full,3G-full;STRATA
+312;380;2G-full,3G-full;Copper Valley Telecom
+312;670;2G-full,3G-full;AT&T
+313;100;2G-full,3G-full;AT&T
+313;110;2G-full,3G-full;AT&T
+313;120;2G-full,3G-full;ASTCA
+313;130;2G-full,3G-full;AT&T
+313;140;2G-full,3G-full;AT&T
+334;03;2G-full;movistar
+334;09;2G-full,3G-full;AT&T
+334;30;2G-full;movistar
+334;90;2G-partial;AT&T
+338;180;2G-full;FLOW
+340;03;2G-full;CHIPPIE
+344;03;2G-full;APUA-inet
+344;30;2G-full;APUA inet
+344;920;2G-full;FLOW
+360;110;2G-full;FLOW
+362;51;2G-full;Telcell-MF
+362;91;2G-full;Chippie
+364;39;2G-full;BTC
+364;390;2G-full;BTC
+365;840;2G-full;FLOW
+376;360;2G-full;FLOW
+404;01;3G-full;Vi
+404;02;3G-full;AirTel
+404;03;3G-full;AirTel
+404;04;3G-full;Vi
+404;05;3G-full;Vi
+404;07;3G-full;Vi
+404;10;3G-full;AirTel
+404;11;3G-full;Vi
+404;12;3G-full;Vi
+404;13;3G-full;Vi
+404;14;3G-full;Vi
+404;15;3G-full;Vi
+404;16;3G-full;AirTel
+404;19;3G-full;Vi
+404;20;3G-full;Vi
+404;22;3G-full;Vi
+404;24;3G-full;Vi
+404;27;3G-full;Vi
+404;30;3G-full;Vi
+404;31;3G-full;AirTel
+404;40;3G-full;AirTel
+404;43;3G-full;Vi
+404;44;3G-full;Vi
+404;45;3G-full;AirTel
+404;46;3G-full;Vi
+404;49;3G-full;AirTel
+404;56;3G-full;Vi
+404;60;3G-full;Vi
+404;70;3G-full;AirTel
+404;78;3G-full;Vi
+404;82;3G-full;Vi
+404;84;3G-full;Vi
+404;86;3G-full;Vi
+404;87;3G-full;Vi
+404;88;3G-full;Vi
+404;89;3G-full;Vi
+404;90;3G-full;AirTel
+404;92;3G-full;AirTel
+404;93;3G-full;AirTel
+404;94;3G-full;AirTel
+404;95;3G-full;AirTel
+404;96;3G-full;AirTel
+404;97;3G-full;AirTel
+404;98;3G-full;AirTel
+405;51;3G-full;AirTel
+405;52;3G-full;AirTel
+405;53;3G-full;AirTel
+405;54;3G-full;AirTel
+405;55;3G-full;AirTel
+405;56;3G-full;AirTel
+405;66;3G-full;Vi
+405;67;3G-full;Vi
+405;70;3G-full;Vi
+405;750;3G-full;Vi
+405;751;3G-full;Vi
+405;752;3G-full;Vi
+405;753;3G-full;Vi
+405;754;3G-full;Vi
+405;755;3G-full;Vi
+405;756;3G-full;Vi
+405;799;3G-full;Vi
+405;840;2G-full,3G-full;Jio
+405;845;3G-full;Vi
+405;846;3G-full;Vi
+405;848;3G-full;Vi
+405;849;3G-full;Vi
+405;850;3G-full;Vi
+405;852;3G-full;Vi
+405;853;3G-full;Vi
+405;854;2G-full,3G-full;Jio
+405;855;2G-full,3G-full;Jio
+405;856;2G-full,3G-full;Jio
+405;857;2G-full,3G-full;Jio
+405;858;2G-full,3G-full;Jio
+405;859;2G-full,3G-full;Jio
+405;860;2G-full,3G-full;Jio
+405;861;2G-full,3G-full;Jio
+405;862;2G-full,3G-full;Jio
+405;863;2G-full,3G-full;Jio
+405;864;2G-full,3G-full;Jio
+405;865;2G-full,3G-full;Jio
+405;866;2G-full,3G-full;Jio
+405;867;2G-full,3G-full;Jio
+405;868;2G-full,3G-full;Jio
+405;869;2G-full,3G-full;Jio
+405;870;2G-full,3G-full;Jio
+405;871;2G-full,3G-full;Jio
+405;872;2G-full,3G-full;Jio
+405;873;2G-full,3G-full;Jio
+405;874;2G-full,3G-full;Jio
+410;01;3G-partial;Jazz
+413;02;3G-full;Dialog
+413;05;3G-full;airtel
+416;03;2G-full;Umniah
+419;02;3G-partial;Zain KW
+419;03;3G-partial;Ooredoo
+419;04;3G-partial;stc KW
+420;01;3G-partial;stc
+422;02;3G-partial;OMANTEL
+422;03;3G-partial;Ooredoo
+424;02;2G-partial;etisalat
+424;03;2G-partial;Virgin
+425;01;2G-partial;Partner
+425;02;2G-partial;Cellcom
+425;03;2G-full;Pelephone
+425;07;2G-full,3G-partial;HOT mobile
+425;10;2G-partial;Partner
+426;01;2G-partial;Batelco
+426;02;3G-partial;Zain-BH
+427;01;3G-partial;Ooredoo
+427;02;3G-partial;Vodafone QA
+450;05;2G-full;SKT
+450;06;2G-full,3G-full;LG U+
+450;08;2G-full;KT
+454;00;2G-full,3G-partial;1010/CSL
+454;02;2G-full,3G-partial;1010/CSL
+454;03;2G-full;Hutchison-HKBN
+454;04;2G-full;HKBN
+454;06;2G-full;SMC HK
+454;07;2G-full;Unicom-HK
+454;10;2G-full,3G-partial;1010/CSL
+454;11;2G-full,3G-partial;1010/CSL
+454;12;3G-full;CMHK
+454;13;2G-partial,3G-full;HKBN
+454;15;2G-full,3G-partial;SMC HK
+454;17;2G-full,3G-partial;SMC HK
+454;18;2G-full,3G-partial;1010/CSL
+455;00;2G-full,3G-full;SmarTone
+455;01;2G-full,3G-full;CTM
+455;03;2G-full,3G-full;3 Macau
+455;04;2G-full,3G-full;CTM
+455;05;2G-full,3G-full;3 Macau
+455;06;2G-full,3G-full;SmarTone
+455;07;2G-full,3G-full;ChinaTelecom(Macau)
+456;01;3G-full;x
+456;02;2G-full,3G-full;Smart
+456;05;2G-full,3G-full;Smart
+456;06;3G-full;Smart
+460;01;2G-full,3G-partial;China Unicom
+460;11;2G-full,3G-full;China Telecom
+460;15;2G-full,3G-full;CBN
+470;01;3G-partial;Grameenphone
+470;02;3G-full;Robi
+470;03;3G-partial;Banglalink
+502;12;3G-partial;Maxis
+502;13;3G-full;yoodo
+502;18;3G-partial;U Mobile
+502;19;3G-partial;yoodo
+505;01;2G-partial,3G-partial;Telstra
+505;02;2G-full,3G-partial;Optus
+505;03;2G-full,3G-full;Lebara
+505;10;2G-full;Norfolk-NF
+505;71;2G-full,3G-full;Telstra
+505;72;2G-full,3G-full;Telstra
+510;01;3G-full;Indosat
+510;08;3G-full;XL Axiata
+510;09;3G-full;Smartfren
+510;10;3G-full;Telkomsel
+510;11;3G-full;XL Axiata
+510;21;3G-full;Indosat
+510;28;3G-full;Smartfren
+510;89;3G-full;Indosat
+515;02;3G-full;Globe
+515;03;3G-partial;SMART
+528;01;2G-full;Imagine
+528;02;2G-full;Progresif
+528;11;2G-full;DSTCom
+530;01;2G-partial,3G-partial;One NZ
+530;05;2G-full;Spark NZ
+530;24;2G-full,3G-partial;2degrees
+548;01;2G-full;TelecomCook
+616;01;2G-full,3G-full;Libercom-BJ
+655;02;2G-full;TelkomSA
+655;05;2G-full;TelkomSA
+712;01;2G-full;Kolbi ICE
+712;02;2G-full;Kolbi ICE
+712;04;2G-full;LIBERTY
+732;103;2G-full;Tigo
+732;123;2G-full;movistar
+734;02;2G-full;Digital-VE
+740;02;2G-partial;CNT-EC
+748;07;2G-full;Movistar
+995;01;2G-full,3G-full;Sure-BIOT
+330;*;2G-full;MCC-Puerto Rico
+440;*;2G-full,3G-full;MCC-Japan
+441;*;2G-full,3G-full;MCC-Japan
+466;*;2G-full,3G-full;MCC-Taiwan
+525;*;2G-full,3G-full;MCC-Singapore
+544;*;2G-full;MCC-American Samoa

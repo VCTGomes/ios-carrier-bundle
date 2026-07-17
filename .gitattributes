@@ -1,0 +1,16 @@
+# Data snapshots: keep GitHub language stats and diffs sane
+carrier-bundles/** linguist-generated
+carrier-bundles/** -diff
+
+# Binary Apple formats
+*.plist binary
+*.pri binary
+*.gri binary
+*.der binary
+*.caf binary
+
+# Text formats
+*.md text
+*.xml text
+*.strings text
+*.json text
