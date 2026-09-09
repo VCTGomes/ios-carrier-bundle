@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>18</integer>
+				</array>
+				<key>EAPSIMAKAEncryptedIdentityEnabled</key>
+				<true/>
+			</dict>
+			<key>EncryptionType</key>
+			<string>Any</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>ワイヤレス接続設定を構成します。</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi（T wifi home）</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.AB944BC5-41E6-44AC-880B-C50FD3EC6F13</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>8152BFFB-9839-4389-BE7B-F24ABA0F52E3</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>SSID_STR</key>
+			<string>T wifi home</string>
+		</dict>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>18</integer>
+				</array>
+				<key>EAPSIMAKAEncryptedIdentityEnabled</key>
+				<true/>
+			</dict>
+			<key>EncryptionType</key>
+			<string>Any</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>ワイヤレス接続設定を構成します。</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi（T wifi zone_secure）</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.8913CDAF-6F0F-4BBC-BF35-976ADFE4E17F</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>FA90CB13-80B5-4296-AF37-3856071C4251</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>SSID_STR</key>
+			<string>T wifi zone_secure</string>
+		</dict>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
+			<key>DisableAssociationMACRandomization</key>
+			<false/>
+			<key>DisplayedOperatorName</key>
+			<string>SKT</string>
+			<key>DomainName</key>
+			<string>wifi.sktelecom.com</string>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>18</integer>
+				</array>
+				<key>EAPSIMAKAEncryptedIdentityEnabled</key>
+				<true/>
+			</dict>
+			<key>EncryptionType</key>
+			<string>WPA2</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<true/>
+			<key>MCCAndMNCs</key>
+			<array>
+				<string>450F05</string>
+			</array>
+			<key>NAIRealmNames</key>
+			<array>
+				<string>wlan.mnc005.mcc450.3gppnetwork.org</string>
+			</array>
+			<key>PayloadDescription</key>
+			<string>Configures Wi-Fi settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi（T wifi zone_secure）</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.6AB6C0AF-4834-4D02-8298-E09BAB8C7260</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>079D1CBE-CE81-4EC8-9BEA-FEB159941E39</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>T wifi zone_secure</string>
+			<key>ServiceProviderRoamingEnabled</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Add HS2.0 support</string>
+	<key>PayloadDisplayName</key>
+	<string>Add HS2.0 support</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.SKT_kr.e385f228-da0e-11eb-b724-f45c89abb0d9</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>D0C4E8A1-D364-4D39-BDDE-391587F366A7</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
