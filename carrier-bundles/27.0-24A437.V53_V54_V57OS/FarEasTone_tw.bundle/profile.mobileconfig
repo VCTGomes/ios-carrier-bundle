@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>本人同意遵守遠傳電信Wi-Fi 無線上網服務契約條款</string>
+	</dict>
+	<key>PayloadDescription</key>
+	<string>本檔案為安裝於iOS系統設備的遠傳「Wi-Fi自動連網」服務設定檔。本檔案限遠傳電信行動用戶安裝，並須搭配具有3G及Wi-Fi功能的iPhone或iPAD產品。如非上述產品，請勿安裝本檔案。</string>
+	<key>PayloadDisplayName</key>
+	<string>遠傳Wi-Fi自動連網服務</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.FarEasTone_tw.e893d776-da0e-11eb-8dbf-f45c89abb0d9</string>
+	<key>PayloadOrganization</key>
+	<string>遠傳電信股份有限公司</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>AD90FEF2-8AF7-4B3C-839F-9D00F2A91D3D</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
