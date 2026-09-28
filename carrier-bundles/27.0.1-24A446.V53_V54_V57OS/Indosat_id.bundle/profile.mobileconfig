@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>18</integer>
+				</array>
+				<key>TLSAllowTrustExceptions</key>
+				<true/>
+			</dict>
+			<key>EnableIPv6</key>
+			<true/>
+			<key>EncryptionType</key>
+			<string>Any</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Configures Wi-Fi settings</string>
+			<key>PayloadDisplayName</key>
+			<string>WiFi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mobile.carriersupport.wifi.indosat_id.com.apple.wifi.managed.68429129-85EC-401D-BAE8-5923B951AF6C</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>40EFFFD4-27E2-4930-9E97-9854D57EE50D</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>INDOSAT</string>
+		</dict>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>18</integer>
+				</array>
+			</dict>
+			<key>EncryptionType</key>
+			<string>Any</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Configures wireless connectivity settings.</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi (INDOSAT)</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mobile.carriersupport.wifi.indosat_id.com.apple.wifi.managed.51942931-F088-4553-A439-A5D5F8D18CD7</string>
+			<key>PayloadOrganization</key>
+			<string>Indosat</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>B1CFC922-60DD-45CA-97A7-0A25D778F2F2</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>SuperWiFi-SIM</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>This profile contains the credentials necessary to enable EAP-SIM for Indosat SIMs.</string>
+	<key>PayloadDisplayName</key>
+	<string>INDOSAT</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.mobile.carriersupport.wifi.indosat_id</string>
+	<key>PayloadOrganization</key>
+	<string>Indosat</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>1B850A83-9D7E-4C02-AF4E-AF33D2F30927</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
