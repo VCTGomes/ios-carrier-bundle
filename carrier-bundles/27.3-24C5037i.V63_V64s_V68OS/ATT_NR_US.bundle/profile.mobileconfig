@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DisableWiFiAutoJoinUntilFirstUserJoin</key>
+	<false/>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>DisableAssociationMACRandomization</key>
+			<false/>
+			<key>DisplayedOperatorName</key>
+			<string>AT&amp;T Secure Wi-Fi</string>
+			<key>DomainName</key>
+			<string>attwifi.com</string>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>23</integer>
+				</array>
+				<key>EAPSIMAKAConservativePeer</key>
+				<true/>
+				<key>EAPSIMAKAEncryptedIdentityEnabled</key>
+				<true/>
+				<key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
+				<integer>24</integer>
+			</dict>
+			<key>EncryptionType</key>
+			<string>WPA2</string>
+			<key>IsHotspot</key>
+			<true/>
+			<key>MCCAndMNCs</key>
+			<array>
+				<string>310410</string>
+			</array>
+			<key>PayloadDescription</key>
+			<string>Configures Wi-Fi settings</string>
+			<key>PayloadDisplayName</key>
+			<string>WiFi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.ATT_NR_US.55d0b782-d474-11eb-a328-f45c89abb0d9</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>EBCE37F5-676B-4FA3-91E6-3C0F91977EB7</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>ServiceProviderRoamingEnabled</key>
+			<true/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Auto-joins the AT&amp;T Secure Wi-Fi network</string>
+	<key>PayloadDisplayName</key>
+	<string>AT&amp;T Secure Wi-Fi</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.ATT_NR_US.edf0128e-da0e-11eb-9a46-f45c89abb0d9</string>
+	<key>PayloadOrganization</key>
+	<string>Apple Inc</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>726D2BC8-AD96-4567-B619-114CD702675A</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

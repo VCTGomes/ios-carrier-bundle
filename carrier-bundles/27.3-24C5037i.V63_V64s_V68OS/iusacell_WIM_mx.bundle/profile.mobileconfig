@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
+			<key>DisplayedOperatorName</key>
+			<string>WIM MX Wi-Fi</string>
+			<key>DomainName</key>
+			<string>attmexwifi.com</string>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>23</integer>
+				</array>
+				<key>EAPSIMAKAEncryptedIdentityEnabled</key>
+				<true/>
+			</dict>
+			<key>EncryptionType</key>
+			<string>WPA2</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<true/>
+			<key>MCCAndMNCs</key>
+			<array>
+				<string>334F80</string>
+				<string>334F50</string>
+				<string>310410</string>
+			</array>
+			<key>NAIRealmNames</key>
+			<array>
+				<string>attmexwifi.com</string>
+				<string>attwifi.com</string>
+				<string>sitwifi.com</string>
+				<string>wlan.mnc080.mcc334.3gppnetwork.org</string>
+				<string>wlan.mnc050.mcc334.3gppnetwork.org</string>
+				<string>wlan.mnc410.mcc310.3gppnetwork.org</string>
+			</array>
+			<key>PayloadDescription</key>
+			<string>Configures Wi-Fi settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.B9891EEF-029D-4369-9F4D-F55BF2D1DBB5</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>0A9C3602-A1CB-46F7-8609-B76F891A48F2</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>ServiceProviderRoamingEnabled</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures Managed Domains</string>
+			<key>PayloadDisplayName</key>
+			<string>Domains</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.domains.7C25BE75-2C31-4897-A944-84B374708EEE</string>
+			<key>PayloadType</key>
+			<string>com.apple.domains</string>
+			<key>PayloadUUID</key>
+			<string>D6C2B73F-F40D-4612-8C9E-D61D4C937341</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>ATTMEX WiFi</string>
+	<key>PayloadIdentifier</key>
+	<string>AT&amp;T HS2.0</string>
+	<key>PayloadOrganization</key>
+	<string>AT&amp;T Mexico</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>BD9F3019-214E-4F77-AA32-4DB048069A7F</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
