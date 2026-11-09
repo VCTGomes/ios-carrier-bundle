@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
+			<key>DisableAssociationMACRandomization</key>
+			<false/>
+			<key>DisplayedOperatorName</key>
+			<string>HUTCH-WIFI</string>
+			<key>DomainName</key>
+			<string>wlan.hutch.lk</string>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>23</integer>
+				</array>
+			</dict>
+			<key>EncryptionType</key>
+			<string>WPA2</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<true/>
+			<key>MCCAndMNCs</key>
+			<array>
+				<string>413F08</string>
+			</array>
+			<key>NAIRealmNames</key>
+			<array>
+				<string>wlan.mnc008.mcc413.3gppnetwork.org</string>
+			</array>
+			<key>PayloadDescription</key>
+			<string>Configures Wi-Fi settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.2C76D065-2D30-4BA2-B2E4-503865B8B9F7</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>AEE53119-5514-4607-8749-BD2805B6022E</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>ServiceProviderRoamingEnabled</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>LKA Hutch First Launch of WiFi passpoint</string>
+	<key>PayloadDisplayName</key>
+	<string>LKA_Hutch_WiFi</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.Hutch_lka.6EEE9FDB-14BF-43D5-8F2B-F67535219816</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>54B84AED-D139-4705-A06A-E8A9703D55FF</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

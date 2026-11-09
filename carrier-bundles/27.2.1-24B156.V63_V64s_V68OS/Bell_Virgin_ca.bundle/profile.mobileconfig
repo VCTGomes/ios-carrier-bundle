@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DisableWiFiAutoJoinUntilFirstUserJoin</key>
+	<false/>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
+			<key>DisableAssociationMACRandomization</key>
+			<false/>
+			<key>DisplayedOperatorName</key>
+			<string>via Virgin Plus</string>
+			<key>DomainName</key>
+			<string>Virginplus.ca</string>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>23</integer>
+				</array>
+				<key>EAPSIMAKAEncryptedIdentityEnabled</key>
+				<true/>
+				<key>TLSTrustedServerNames</key>
+				<array>
+					<string>imsiencryption</string>
+				</array>
+			</dict>
+			<key>EncryptionType</key>
+			<string>WPA2</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<true/>
+			<key>MCCAndMNCs</key>
+			<array>
+				<string>302630</string>
+				<string>302640</string>
+				<string>302610</string>
+			</array>
+			<key>NAIRealmNames</key>
+			<array>
+				<string>wlan.mnc630.mcc302.3gppnetwork.org</string>
+				<string>wlan.mnc640.mcc302.3gppnetwork.org</string>
+				<string>wlan.mnc610.mcc302.3gppnetwork.org</string>
+			</array>
+			<key>PayloadDescription</key>
+			<string>Configures Wi-Fi settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.64EDAD6E-9E79-4A2A-8BE7-1F868667B373</string>
+			<key>PayloadOrganization</key>
+			<string>Bell Mobility</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>3DD8E423-02D6-4534-B93E-E1AA266EAD35</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>RoamingConsortiumOIs</key>
+			<array/>
+			<key>ServiceProviderRoamingEnabled</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
+			<key>DisableAssociationMACRandomization</key>
+			<false/>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>23</integer>
+				</array>
+				<key>EAPSIMAKAEncryptedIdentityEnabled</key>
+				<true/>
+				<key>TLSTrustedServerNames</key>
+				<array>
+					<string>imsiencryption</string>
+				</array>
+			</dict>
+			<key>EncryptionType</key>
+			<string>WPA2</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Configures Wi-Fi settings</string>
+			<key>PayloadDisplayName</key>
+			<string>WiFi (BELL_WIFI)</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.4907B5C7-3124-4EBA-B4F2-F61F4483B26D</string>
+			<key>PayloadOrganization</key>
+			<string>Bell Mobility</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>E348285C-0A18-4965-9835-37AAF4311CCB</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>SSID_STR</key>
+			<string>BELL_WIFI</string>
+		</dict>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
+			<key>DisableAssociationMACRandomization</key>
+			<false/>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>23</integer>
+				</array>
+				<key>EAPSIMAKAEncryptedIdentityEnabled</key>
+				<true/>
+				<key>TLSTrustedServerNames</key>
+				<array>
+					<string>imsiencryption</string>
+				</array>
+			</dict>
+			<key>EncryptionType</key>
+			<string>WPA2</string>
+			<key>HIDDEN_NETWORK</key>
+			<true/>
+			<key>IsHotspot</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Configures Wi-Fi settings</string>
+			<key>PayloadDisplayName</key>
+			<string>WiFi (5099251212)</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.1B48E8CC-3CFD-48C6-9194-316A6D9C5682</string>
+			<key>PayloadOrganization</key>
+			<string>Bell Mobility</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>8E03F954-F757-4EE1-9E5E-4072B1B4E86A</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>SSID_STR</key>
+			<string>5099251212</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Bell Wi-Fi automatic authentication profile</string>
+	<key>PayloadDisplayName</key>
+	<string>Virgin Pius Wi-Fi</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.Bell_ca.F1A50D0F-00BE-4530-BEBD-823A035EC07A</string>
+	<key>PayloadOrganization</key>
+	<string>Bell Mobility</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>0F10805D-8BEC-4E70-B2F6-FC443553501B</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
