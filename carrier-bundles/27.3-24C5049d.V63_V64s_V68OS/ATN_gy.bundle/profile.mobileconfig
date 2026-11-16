@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>18</integer>
+				</array>
+				<key>EAPSIMAKAEncryptedIdentityEnabled</key>
+				<true/>
+			</dict>
+			<key>EncryptionType</key>
+			<string>WPA2</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Configures Wi-Fi settings</string>
+			<key>PayloadDisplayName</key>
+			<string>WiFi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.ATN_gy.5494bc1a-d474-11eb-8acc-f45c89abb0d9</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>D4CB65AC-0A33-4F26-A04F-A53FF845E60A</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>ONE</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>ONE</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.ATN_gy.ecb1adc4-da0e-11eb-83d9-f45c89abb0d9</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>1DB5C02E-8381-4E02-9F3F-093690A44247</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
